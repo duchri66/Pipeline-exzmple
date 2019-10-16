@@ -6,6 +6,7 @@
 <html>
   <head>
     <title>Mon premier script PHP !</title>
+    <h1 style="background-color:Tomato;">Tomato</h1>
   </head>
   <body>
 
